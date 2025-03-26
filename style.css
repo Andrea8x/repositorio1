@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+}
+.h1{
+    position: fixed;
+    background-color: rgb(48, 26, 70);
+   text-align: center;
+   letter-spacing: 11px;
+   font-size:40px ;
+
+   padding: 90px;
+}
+
+.info{
+    font-size: 20px;
+    top: 300px;
+	margin-top: 60px;
+    margin-left: 200px;
+	position:fixed;
+	bottom: 30%;
+	padding: 0 50px;
+	
+}
+
+
+
+ul{
+	font-size: 20px;
+    margin: 20px;
+}
+img{
+position: fixed;
+  margin-top: 10%;
+  
+  margin-right: 0px;
+  margin-left: 1200px;
+  border-radius: 30%;
+  object-fit: cover;
+  width: 350px;
+  height: 350px;
+
+}
+
+
